@@ -1,9 +1,9 @@
 # Hi there 👋, Who's that Aoli?
-## I am a software engineer 
+## I am a master student at UCSD studing MLDS now. I am more a software developer familiar with WebDev, Data Science, Machine Learning, blockchain.
 ![*I am software engineer*](https://github.com/WhosthatAoli/WhosthatAoli/blob/main/images/banner.png)
 
+### Web Developer
 ### Web3 lover
-### Programmer
 ### Crypto
 
 #### Skills: Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB,Git, AWS, LaTeX.
