@@ -1,5 +1,7 @@
 # Hi there 👋, Who's that Aoli?
-## I am a master student at UCSD studing MLDS now. I am more a software developer familiar with WebDev, Data Science, Machine Learning, blockchain.
+## I am a master student at UCSD studing MLDS now. 
+## I am more a software developer familiar with WebDev, Data Science, Machine Learning, blockchain.
+
 ![*I am software engineer*](https://github.com/WhosthatAoli/WhosthatAoli/blob/main/images/banner.png)
 
 ### Web Developer
