@@ -1,12 +1,12 @@
 # Hi there 👋, Who's that Aoli?
-## *I am software engineer*
+## I am software engineer
 ![*I am software engineer*](https://github.com/WhosthatAoli/WhosthatAoli/blob/main/images/banner.png)
 
-###Web3 lover
-###Programmer
-###Crypto
+### Web3 lover
+### Programmer
+### Crypto
 
-####Skills: Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB,Git, AWS, LaTeX.
+#### Skills: Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB,Git, AWS, LaTeX.
 
 - 🔭 I’m currently working on Web3 Devlopment 
 - 🌱 I’m currently learning Machine Learning&Data Sciecne 
