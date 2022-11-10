@@ -1,5 +1,5 @@
 # Hi there 👋, Who's that Aoli?
-## I am software engineer
+## I am a software engineer 
 ![*I am software engineer*](https://github.com/WhosthatAoli/WhosthatAoli/blob/main/images/banner.png)
 
 ### Web3 lover
@@ -8,9 +8,10 @@
 
 #### Skills: Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB,Git, AWS, LaTeX.
 
-- 🔭 I’m currently working on Web3 Devlopment 
-- 🌱 I’m currently learning Machine Learning&Data Sciecne 
+- 🔭 I’m currently working on Web Development, Web3 Devlopment 
+- 🌱 I’m currently learning Machine Learning&Data Sciecne at UCSD
 - 📫 How to reach me: zshaohua.aoli@gmail.com 
+- ⚡ Check my NFTs on https://opensea.io/Aolihere 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WhosthatAoli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shaohua-Zhang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shenlangaoli)  
