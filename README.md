@@ -12,7 +12,7 @@
 #### Skills: React, Swift, Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB, Git, AWS, LaTeX.
 
 - 🔭 I’m currently working on Web Development, Web3 Devlopment 
-- 🌱 I’m currently working [Traveling Cats(Dapp on fuji network)](lucky-cats.vercel.app)
+- 🌱 I’m currently working [Traveling Cats(Dapp on fuji network)](https://lucky-cats.vercel.app)
 - 📫 How to reach me: zshaohua.aoli@gmail.com 
 - ⚡ Check my profile on www.whosthataoli.com
 
