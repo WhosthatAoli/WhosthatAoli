@@ -9,12 +9,12 @@
 ### Web3 lover
 ### Crypto
 
-#### Skills: Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB,Git, AWS, LaTeX.
+#### Skills: React, Swift, Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB, Git, AWS, LaTeX.
 
 - 🔭 I’m currently working on Web Development, Web3 Devlopment 
-- 🌱 I’m currently learning Machine Learning&Data Sciecne at UCSD
+- 🌱 I’m currently working Traveling Cats(Dapp on fuji network): lucky-cats.vercel.app
 - 📫 How to reach me: zshaohua.aoli@gmail.com 
-- ⚡ Check my NFTs on https://opensea.io/Aolihere 
+- ⚡ Check my profile on www.whosthataoli.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WhosthatAoli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shaohua-Zhang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shenlangaoli)  
