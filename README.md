@@ -1,5 +1,7 @@
 # Hi there 👋, Who's that Aoli?
-## I am a software developer in Web Development, Mobile Development, Data Science, Machine Learning, and blockchain.
+## I am a software developer in Web Development, iOS Development, Machine Learning, and blockchain.
+
+## Welcome to take a look at my [KUI-for SwiftUI](https://github.com/WhosthatAoli/Algorithms)codes.
 
 ## Welcome to take a look at my [algorithms](https://github.com/WhosthatAoli/Algorithms), [system design](https://github.com/WhosthatAoli/System-Design), [OOP](https://github.com/WhosthatAoli/OOP--) notes.
 
@@ -11,7 +13,7 @@
 
 #### Skills: React, Swift, Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB, Git, AWS, LaTeX.
 
-- 🔭 I’m currently working on Web Development, Web3 Devlopment 
+- 🔭 I’m currently working on iOS/Web Development, Web3 Devlopment 
 - 🌱 I’m currently working [Traveling Cats(Dapp on fuji network)](https://lucky-cats.vercel.app)
 - 📫 How to reach me: zshaohua.aoli@gmail.com 
 - ⚡ Check my profile on www.whosthataoli.com
