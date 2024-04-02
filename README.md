@@ -17,28 +17,43 @@
 
 ## Language and Tools:
 
-  **Frontend:**
+**Frontend:**
   
   <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
     <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/5aa5f002-8fb8-4690-aaa0-599c8810030b' alt='React' height='80'>
       <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/dd0b525b-4cb0-4029-bf92-d1d33baf0f66' alt='Swift' height='80'>
         <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/70e07f2f-e81a-4599-9939-dc286e93e937' alt='SwiftUI' height='80'>
 
-   **Backend:**
+**Backend:**
+  
+  <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
+    <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/5aa5f002-8fb8-4690-aaa0-599c8810030b' alt='React' height='80'>
+      <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/dd0b525b-4cb0-4029-bf92-d1d33baf0f66' alt='Swift' height='80'>
+        <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/70e07f2f-e81a-4599-9939-dc286e93e937' alt='SwiftUI' height='80'>
+        
+**BlockChain**
   
   <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
     <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/5aa5f002-8fb8-4690-aaa0-599c8810030b' alt='React' height='80'>
       <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/dd0b525b-4cb0-4029-bf92-d1d33baf0f66' alt='Swift' height='80'>
         <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/70e07f2f-e81a-4599-9939-dc286e93e937' alt='SwiftUI' height='80'>
 
-    **BlockChain:**
+**Database:**
   
   <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
     <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/5aa5f002-8fb8-4690-aaa0-599c8810030b' alt='React' height='80'>
       <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/dd0b525b-4cb0-4029-bf92-d1d33baf0f66' alt='Swift' height='80'>
         <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/70e07f2f-e81a-4599-9939-dc286e93e937' alt='SwiftUI' height='80'>
 
-    **Database:**
+
+**Cloud Services:**
+  
+  <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
+    <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/5aa5f002-8fb8-4690-aaa0-599c8810030b' alt='React' height='80'>
+      <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/dd0b525b-4cb0-4029-bf92-d1d33baf0f66' alt='Swift' height='80'>
+        <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/70e07f2f-e81a-4599-9939-dc286e93e937' alt='SwiftUI' height='80'>
+
+**Tools:**
   
   <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
     <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/5aa5f002-8fb8-4690-aaa0-599c8810030b' alt='React' height='80'>
