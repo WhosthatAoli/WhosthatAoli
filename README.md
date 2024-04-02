@@ -48,18 +48,13 @@
         <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/53192a00-728b-46d4-9876-976689cdf929' alt='Docker' height='80'>
         <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/a3b1ca97-9cec-4030-a8da-5a49718d8a95' alt='Postman' height='80'>
 
-
-
-  
-
-
-  
+##
 
 - 🔭 I’m currently working on iOS/Web Development, Web3 Devlopment 
 - 🌱 I’m currently working [Traveling Cats(Dapp on fuji network)](https://lucky-cats.vercel.app)
 - 📫 How to reach me: zshaohua.aoli@gmail.com 
 - ⚡ Check my profile on www.whosthataoli.com
 
-
+## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WhosthatAoli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shaohua-Zhang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shenlangaoli)  
 
