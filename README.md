@@ -17,8 +17,8 @@
 
 ## Language and Tools:
 
-  Frontend:
-
+  Frontend: [<img src='https://icons8.com/icon/PXTY4q2Sq2lG/javascript' alt='JS' height='40'>]
+1
   
 
 - 🔭 I’m currently working on iOS/Web Development, Web3 Devlopment 
