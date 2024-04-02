@@ -17,9 +17,9 @@
 
 ## Language and Tools:
 
-  Frontend: 
-  [<img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/2d2ee3d4-fabf-4b53-bdb4-014fb3b0e2ec' alt='JS' height='40'>]
-  [image](https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/2d2ee3d4-fabf-4b53-bdb4-014fb3b0e2ec)
+  Frontend:
+  
+  [<img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/2d2ee3d4-fabf-4b53-bdb4-014fb3b0e2ec' alt='JS' height='80'>]
 
   
 
