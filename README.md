@@ -26,6 +26,7 @@
   
   <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/54a9ecf3-a134-49fa-ad90-ded0738b7fc8' alt='Python' height='80'>
     <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/f81f848d-4f31-452f-bd77-a207463e3bb2' alt='NodeJS' height='80'>
+        <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/f3ea44b6-f958-4579-b1d0-9b56ba7a0d19' alt='Java' height='80'>
         
 **BlockChain**
   
