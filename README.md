@@ -10,7 +10,7 @@
 ![*I am software engineer*](https://github.com/WhosthatAoli/WhosthatAoli/blob/main/images/banner.png)
 
 ### Web Developer
-### Web3 lover
+### iOS Developer
 ### Crypto
 
 #### Skills: React, Swift, Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB, Git, AWS, LaTeX.
