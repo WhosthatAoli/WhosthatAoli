@@ -17,6 +17,10 @@
 
 ## Language and Tools:
 
+  Frontend:
+
+  
+
 - 🔭 I’m currently working on iOS/Web Development, Web3 Devlopment 
 - 🌱 I’m currently working [Traveling Cats(Dapp on fuji network)](https://lucky-cats.vercel.app)
 - 📫 How to reach me: zshaohua.aoli@gmail.com 
