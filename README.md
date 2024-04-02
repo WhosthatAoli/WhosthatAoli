@@ -49,10 +49,11 @@
 
 **Tools:**
   
-  <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
-    <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/5aa5f002-8fb8-4690-aaa0-599c8810030b' alt='React' height='80'>
-      <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/dd0b525b-4cb0-4029-bf92-d1d33baf0f66' alt='Swift' height='80'>
-        <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/70e07f2f-e81a-4599-9939-dc286e93e937' alt='SwiftUI' height='80'>
+  <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/690e9d57-88a4-4b8c-9060-d1079218799e' alt='Github' height='80'>
+    <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/e2f86f40-f23b-4a99-bb69-77b7292f3e02' alt='VSCode' height='80'>
+      <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/a1533256-98c1-4ec4-bfb6-30da2522e2b9' alt='Xcode' height='80'>
+        <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/53192a00-728b-46d4-9876-976689cdf929' alt='Docker' height='80'>
+        <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/a3b1ca97-9cec-4030-a8da-5a49718d8a95' alt='Postman' height='80'>
 
 
 
