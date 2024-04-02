@@ -25,4 +25,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WhosthatAoli&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/WhosthatAoli)  
+![Profile views](https://www.whosthataoli.com)  
