@@ -20,7 +20,11 @@
   Frontend:
   
   <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
-  ![image](https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983)
+    <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/5aa5f002-8fb8-4690-aaa0-599c8810030b' alt='React' height='80'>
+      <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='Swift' height='80'>
+        <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='SwiftUI' height='80'>
+
+  
 
 
   
