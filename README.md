@@ -19,7 +19,9 @@
 
   Frontend:
   
-  [<img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/2d2ee3d4-fabf-4b53-bdb4-014fb3b0e2ec' alt='JS' height='80'>]
+  <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983' alt='JS' height='80'>
+  ![image](https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/200ea5a5-82f6-4805-a21c-bca24ccfe983)
+
 
   
 
