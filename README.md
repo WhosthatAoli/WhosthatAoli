@@ -23,6 +23,5 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WhosthatAoli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shaohua-Zhang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shenlangaoli)  
 
-[//]: <> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WhosthatAoli&show_icons=true)  
 
 ![Profile views](https://www.whosthataoli.com)  
