@@ -7,13 +7,6 @@
 
 ## Welcome to take a look at my [algorithms](https://github.com/WhosthatAoli/Algorithms), [system design](https://github.com/WhosthatAoli/System-Design), [OOP](https://github.com/WhosthatAoli/OOP--) notes.
 
-![*I am software engineer*](https://github.com/WhosthatAoli/WhosthatAoli/blob/main/images/banner.png)
-
-### Web Developer
-### iOS Developer
-### Crypto
-
-#### Skills: React, Swift, Python, Database, C, C++, Java, Solidity, PyTorch, Linux, Html5, JavaScript, CSS, Smart Contract, SQL, MATLAB, Git, AWS, LaTeX.
 
 ## Language and Tools:
 
