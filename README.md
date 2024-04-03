@@ -47,8 +47,7 @@
       <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/162bb8cf-71ff-4d21-9dbe-609636e0c411' alt='Azure' height='80'>
 
 **Tools:**
-  
-  <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/690e9d57-88a4-4b8c-9060-d1079218799e' alt='Github' height='80'>
+  <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/2a57e9ca-1670-4612-b71b-aa9e8ca9a959' alt='Github' height='80'>
     <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/e2f86f40-f23b-4a99-bb69-77b7292f3e02' alt='VSCode' height='80'>
       <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/a1533256-98c1-4ec4-bfb6-30da2522e2b9' alt='Xcode' height='80'>
         <img src='https://github.com/WhosthatAoli/WhosthatAoli/assets/54309838/53192a00-728b-46d4-9876-976689cdf929' alt='Docker' height='80'>
